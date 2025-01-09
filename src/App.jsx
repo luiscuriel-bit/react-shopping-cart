@@ -1,6 +1,9 @@
+import './App.css'
+import Shop from './components/Shop'
+
 const App = () => {
     return (
-        <h1>Hello, World!</h1>
+        <Shop />
     );
 };
 
